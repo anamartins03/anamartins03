@@ -1,9 +1,16 @@
-## Hi there 👋
+## Hi there 👋, Welcome! 
+
+My name is Ana Cecília. I'm Telecommunications Engineering student at the Federal University of Ceará. 
+
+- 🌱 I'm currently learning **machine learning** and **data analysis** applied to telecommunications.
+- 🔭 I’m currently working on **data science**.
 
 <!--
 **anamartins03/anamartins03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Contact with me:
+- [LinkedIn](https://www.linkedin.com/in/ana-cecília-costa/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
